@@ -8,7 +8,7 @@ function Footer() {
                 <div className="flex flex-col gap-3">
                     <h3 className="text-[#1a4a6e] font-bold text-lg">Daraz International</h3>
                     <div className="flex flex-wrap items-center gap-6">
-                        {/* Pakistan */}
+                        
                         <div className="flex items-center gap-2">
                             <img src="https://flagcdn.com/w40/pk.png" alt="PK" className="w-8 h-8 rounded-full object-cover border" />
                             <span className="text-gray-500 font-medium">Pakistan</span>
